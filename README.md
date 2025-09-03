@@ -22,8 +22,6 @@ The project includes:
 - Line and bar charts for visualizing trends.
 - Python scripts for data processing and chart generation.
 
-### Example Chart
-![Sustainable Materials Trend](images/sustainable_trend.png)
 
 ## Results
 | Year | Sustainable Materials (%) |
